@@ -9,6 +9,8 @@ Instead of replying on pre-trained knowledge, RAG fetch the relevent data from e
 streamlit 
 python-dotenv
 langchain # core framework 
+
+
 langchain # core framework for building LLM applications
 langchain-community # extra integrations and utilities for LangChain
 faiss-cpu # fast vector database to store the embeddings
