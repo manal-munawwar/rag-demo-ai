@@ -83,20 +83,20 @@ Generated Response
 - Simple UI using Streamlit  
 
 ---
-
 ## 📦 Installation  
 
- Clone the repository
+```bash
+# Clone the repository
 git clone https://github.com/your-username/rag-demo-ai.git
 
-Navigate to project
+# Navigate to project
 cd rag-demo-ai
 
-Create virtual environment
+# Create virtual environment
 python -m venv myenv
 source myenv/bin/activate  # Mac/Linux
 myenv\Scripts\activate     # Windows
 
-Install dependencies
+# Install dependencies
 pip install -r requirements.txt
 
