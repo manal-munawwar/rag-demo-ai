@@ -86,9 +86,9 @@ Generated Response
 
 ## 📦 Installation  
 
-'''bash
+bash
 # Clone the repository
-git clone https://github.com/your-username/rag-demo-ai.git
+git clone https://github.com/manal-munawwar/rag-demo-ai.git
 
 # Navigate to project
 cd rag-demo-ai
@@ -99,7 +99,7 @@ source myenv/bin/activate  # Mac/Linux
 myenv\Scripts\activate     # Windows
 
 # Install dependencies
-pip install -r requirements.txt'''
+pip install -r requirements.txt
 
 ## 💼 Author
 Manal Munawwar
